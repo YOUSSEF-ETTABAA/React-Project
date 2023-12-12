@@ -1,0 +1,134 @@
+
+
+#top-icons{
+    margin-top: 100px;
+}
+#top-icons h1{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+    border-bottom: 2px solid #ffc800;
+    text-shadow: 1px 1px 1px black;
+}
+#top-icons i img{
+    width: 100px;
+}
+#top-icons h3{
+    font-size: 18px;
+    font-family: 'Roboto Slab', serif;
+    margin-left: 4px;
+}
+/* top icons */
+#cards{
+    margin-top: 100px;
+
+    font-family: 'Roboto Slab', serif;
+}
+#cards .card h3{
+    color: #ffc800;
+    font-weight: bold;
+}
+#cards .card p{
+    color: #ffc800;
+    font-weight: bold;
+}
+.rn{
+    width: 150px;
+    height: 32px;
+    border: none;
+    background: transparent;
+    color: #ffc800;
+    border: 2px solid #ffc800;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+    transition: 0.5s ease;
+    cursor: pointer;
+    padding: 0 15px;
+}
+.rn:hover{
+    background-color: #ffc800;
+    color: white;
+}
+/* burger */
+#Adidas{
+    margin-top: 100px;
+    font-family: 'Roboto Slab', serif;
+}
+#Adidas h1{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+    border-bottom: 2px solid #ffc800;
+    text-shadow: 1px 1px 1px black;
+}
+#Adidas .card{
+    transition: 0.5s ease;
+    cursor: pointer;
+    margin-bottom: 25px;
+}
+#Adidas .card:hover{
+    background-color: #ffc800;
+}
+#Adidas .card h3{
+    font-weight: bold;
+    text-shadow: 0px 0px 1px black;
+}
+
+#Adidas .card h5 span{
+    color: black;
+    float: right;
+}
+/* burger */
+
+/* banner */
+.banner{
+    margin-top: 100px;
+    width: 100%;
+    height: 90vh;
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('../assets/otherProduct.png');
+    background-size: cover;
+    text-align: center;
+    background-position: center;
+    font-family: 'Roboto Slab', serif;
+}
+.banner h3{
+    padding-top: 242px;
+    color: #ffc800;
+    font-size: 32px;
+}
+.banner p{
+    color: #ffc800;
+}
+.btnorder{
+    width: 200px;
+    height: 32px;
+    background: transparent;
+    color: #ffc800;
+    border: 2px solid #ffc800;
+    transition: 0.5s ease;
+    padding: 0 15px;
+}
+.btnorder:hover{
+    background-color: #ffc800;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+/* banner */
+
+/* top cards */
+#topcards{
+    margin-top: 50px;
+}
+#topcards .card{
+    background-color: #ffc800;
+    transition: 0.5s ease;
+    cursor: pointer;
+}
+#topcards .card:hover{
+    transform: translateY(-10px);
+}
+/* top cards */
+.backYellow{
+    background-color: #ffc800;
+}
+

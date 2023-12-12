@@ -1,0 +1,94 @@
+#Buy{
+    margin-top: 10px;
+    border: 2px solid #ff7200;
+    height: 380px;
+}
+#Buy1{
+    margin-top: 90px;
+    border: 2px solid #ff7200;
+    height: 380px;
+    padding-bottom: 10px;
+}
+#h4{
+    margin-top: 60px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 1px black;
+
+}
+#h2{
+    margin-top: 100px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 2px solid #ff7200;
+    text-shadow: 1px 1px 1px black;
+
+}
+#Buy h3 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 2px solid #ff7200;
+    text-shadow: 1px 1px 1px black;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px black;
+    color: black;
+    cursor: pointer;
+}
+
+
+#Buy p{
+    font-family: 'Roboto Slab', serif;
+}
+#Buy input{
+    width: 500px;
+    height: 42px;
+    margin-top: 20px;
+    background-color: #ff7200;
+    border: none;
+    border-radius: 5px;
+}
+
+#Buy ::placeholder{
+    color: black;
+    font-family: 'Roboto Slab', serif;
+    padding-left: 10px;
+    font-weight: bold;
+}
+#btnmessage{
+    margin-top: 20px;
+    width: 200px;
+    height: 32px;
+    background: transparent;
+    border: 2px solid #ff7200;
+    letter-spacing: 3px;
+    font-weight: bold;
+    transition: 0.5s ease;
+    padding: 0 15px;
+    color: black;
+    margin-top: 15px;
+}
+#btnmessage:hover{
+    background-color:#ff7200;
+    color: white;
+}
+#Buy i{
+    color: #ffc800;
+    font-size: 20px;
+    margin-top: 30px;
+}
+#Buy i span{
+    font-family: 'Dancing Script', cursive;
+}
+@media screen and (max-width:1200px){
+    #Buy input{
+        width: 350px;
+    }
+}
+@media screen and (max-width:385px){
+    #contact input{
+        width: 250px;
+    }
+}
+/* contact */

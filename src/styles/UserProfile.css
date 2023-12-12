@@ -1,0 +1,43 @@
+#profile{
+    margin-top: 100px;
+}
+#profile h1{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+    border-bottom: 2px solid #ff7200;
+    text-shadow: 1px 1px 1px black;
+}
+#profile h2{
+    font-weight: bold;
+    width: 100%;
+    border-bottom: 2px solid #ff7200;
+    text-shadow: 1px 1px 1px black;
+    text-align: center;
+    margin-left: 280px;
+    font-family: 'Roboto Slab', serif;
+}
+#profile p{
+    font-family: 'Roboto Slab', serif;
+}
+.buttons button{
+    width: 200px;
+    height: 32px;
+    background: transparent;
+    border: 2px solid #ff7200;
+    color: #ff7200;
+    font-weight: bold;
+    letter-spacing: 3px;
+    transition: 0.5s ease;
+    padding: 0 5px;
+    margin-top: 40px;
+   margin-left: 460px;
+}
+
+.buttons button:hover{
+    background-color: #ff7200;
+    color: white;
+}
+#value{
+    color: lightblue;
+}
